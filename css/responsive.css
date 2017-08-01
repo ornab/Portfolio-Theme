@@ -1,0 +1,94 @@
+/* Medium Layout: 1280px. */
+@media only screen and (min-width: 992px) and (max-width: 1200px) { 
+  
+    .mainmenu_area ul#nav li a {
+ 
+  padding: 15px;
+ 
+}
+	 .work-section i.fa-desktop {
+ 
+  margin-left: 92px;
+  margin-top: 29px;
+  
+}
+	.work-section h4 {
+  font-size: 17px;
+		margin-left: 43px;
+
+}
+
+}
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) { 
+ 
+  
+  .mainmenu_area {
+  
+  margin-left: 114px;
+}
+	.logo {
+  margin-bottom: -49px;
+  margin-left: -86px;
+  margin-top: 6px;
+}
+ .work-section i.fa-desktop {
+ 
+  margin-left: 92px;
+  margin-top: 29px;
+  
+}
+	.work-section h4 {
+  font-size: 17px;
+		margin-left: 43px;
+
+}
+		.goal-details {
+  margin-left: -93px;
+}
+	.icon1 {
+  margin-left: -234px;
+  margin-top: 43px;
+}
+	.icon2 {
+  margin-top: -113px;
+}
+	.icon3 {
+  margin-left: 265px;
+  margin-top: -98px;
+}
+	.icon4 {
+  margin-left: 505px;
+  margin-top: -103px;
+}
+	.iphone {
+
+  margin-top: 64px;
+}
+	.accordion-section-title {
+
+  width: 76%;
+}
+	.test.latest {
+
+  margin-top: -3px;
+  
+}
+	.latestproject h3 {
+
+  margin-bottom: 9px;
+ 
+}
+	
+
+    
+}
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) { 
+ 
+    
+}
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) { 
+
+}
